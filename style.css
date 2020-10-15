@@ -1,0 +1,28 @@
+
+.jumb{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/547/486/377/excellent-vector-city-river-bridge-buildings-wallpaper-preview.jpg");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      height: 728px;
+}
+.jumb h1{
+    color: white;
+    margin-top: 50px;
+}
+.jumb h4{
+    color: white;
+    margin-top: 432px;
+}
+
+@media screen and (max-width: 500px){
+    .jumb{
+        background-image: url("https://c4.wallpaperflare.com/wallpaper/547/486/377/excellent-vector-city-river-bridge-buildings-wallpaper-preview.jpg");
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+    }
+    .jumb h4{
+        color: white;
+        margin-top: 340px;
+    }
+    
+}
